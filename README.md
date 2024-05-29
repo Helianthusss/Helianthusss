@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-  ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+  ![Csharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
