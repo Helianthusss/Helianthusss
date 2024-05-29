@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Hey there, Anhtran!
+## Hi there, Anhtran👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
