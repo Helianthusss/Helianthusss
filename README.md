@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-  ![Csharp](https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png)
+  ![Csharp]()
   ![.NET Core](https://img.shields.io/badge/-dotnetcore-333333?style=flat&logo=dotnetcore)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
