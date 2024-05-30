@@ -12,7 +12,7 @@
 
   ![Csharp](https://img.shields.io/badge/Csharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-  ![.NET Core](https://img.shields.io/badge/-dotnet-333333?style=for-the-badge&logo=dotnet)
+  ![.NET Core](https://img.shields.io/badge/-dotnet-3776AB?style=for-the-badge&logo=.NET)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
