@@ -11,6 +11,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
   ![Csharp]()
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
   ![.NET Core](https://img.shields.io/badge/-dotnetcore-333333?style=flat&logo=dotnetcore)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
