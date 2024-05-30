@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-  ![Csharp](https://img.shields.io/badge/Csharp-#512BD4?logo=csharp&logoColor=white&style=for-the-badge)
+  ![Csharp](https://img.shields.io/badge/Csharp-3776AB?logo=csharp&logoColor=#512BD4&style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
   ![.NET Core](https://img.shields.io/badge/-dotnetcore-333333?style=flat&logo=dotnetcore)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
