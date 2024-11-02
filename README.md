@@ -14,7 +14,7 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/anhtrancntt/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/anhtrandev/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       </div>
 </p>
